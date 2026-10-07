@@ -1,0 +1,10 @@
+{
+  "description": "Connects students to share and learn skills through matching, scheduling sessions, and managing skill credits with ratings and reviews.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
